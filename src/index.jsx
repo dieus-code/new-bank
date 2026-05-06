@@ -1,4 +1,3 @@
-import React from "react";
 import Footer from "./footer";
 
 
@@ -15,12 +14,17 @@ export default function Landing() {
             <section className="About">
                 <h2>About us</h2>
                 <p>New Bank is a leading financial institution dedicated to providing top-notch banking services to individuals and businesses. With a focus on innovation and customer satisfaction, we strive to meet the diverse needs of our clients.</p>
-                <div className="info-box-container">
-                <div className="info-box"></div>
-                <div className="info-box"></div>
-                <div className="info-box"></div>
-                <div className="info-box"></div>
-                <div className="info-box"></div>
+                <div className="container">
+                <div className="info-box">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel assumenda tenetur iusto commodi impedit blanditiis. Adipisci hic cumque in sint! Consequatur architecto numquam atque tempore, eaque labore. Impedit, quaerat atque.</div>
+                <div className="info-box">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel assumenda tenetur iusto commodi impedit blanditiis. Adipisci hic cumque in sint! Consequatur architecto numquam atque tempore, eaque labore. Impedit, quaerat atque.</div>
+               <div className="info-box">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel assumenda tenetur iusto commodi impedit blanditiis. Adipisci hic cumque in sint! Consequatur architecto numquam atque tempore, eaque labore. Impedit, quaerat atque.</div>
+                 <div className="info-box">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel assumenda tenetur iusto commodi impedit blanditiis. Adipisci hic cumque in sint! Consequatur architecto numquam atque tempore, eaque labore. Impedit, quaerat atque.</div>
+                <div className="info-box">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel assumenda tenetur iusto commodi impedit blanditiis. Adipisci hic cumque in sint! Consequatur architecto numquam atque tempore, eaque labore. Impedit, quaerat atque.</div>
+               <div className="info-box">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel assumenda tenetur iusto commodi impedit blanditiis. Adipisci hic cumque in sint! Consequatur architecto numquam atque tempore, eaque labore. Impedit, quaerat atque.</div>
+                <div className="info-box">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel assumenda tenetur iusto commodi impedit blanditiis. Adipisci hic cumque in sint! Consequatur architecto numquam atque tempore, eaque labore. Impedit, quaerat atque.</div>
+                <div className="info-box">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel assumenda tenetur iusto commodi impedit blanditiis. Adipisci hic cumque in sint! Consequatur architecto numquam atque tempore, eaque labore. Impedit, quaerat atque.</div>
+               <div className="info-box">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel assumenda tenetur iusto commodi impedit blanditiis. Adipisci hic cumque in sint! Consequatur architecto numquam atque tempore, eaque labore. Impedit, quaerat atque.</div>
+                
                 </div>
             </section>
             <section className="services">
